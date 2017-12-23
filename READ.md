@@ -150,7 +150,7 @@ READ的总供应量为21亿枚，通过写作挖矿算法产生。READ 的产量
 
 **READ 分配机制**
 
-![](http://img.bendixing.net/fenpei.png)
+![](https://github.com/rockxie/LianZai/blob/master/static/read_distribution.png?raw=true)
 
 READ 通过写作挖矿算法奖励创作者保持优质持续的创作，早期参与者分两年逐步解锁释放。
 
