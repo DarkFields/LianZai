@@ -1,6 +1,6 @@
-# SuperString
+# The SuperString
 
-**SuperString** is an original content protocol based on blockchain technology, committed to creating a worldwide online original content incentive system by blockchain technology. SuperString covers original content distribution and incentives, copyright investment, copyright derivatives trading and other fields.
+The **SuperString** is an original content protocol based on blockchain technology, committed to creating a worldwide online original content incentive system by blockchain technology. SuperString covers original content distribution and incentives, copyright investment, copyright derivatives trading and other fields.
 
 The first goal of the SuperString will start from the field of online literature, with the block chain to redefine the online literary ecology, and then gradually expand to comic, online drama and other original content areas.
 
