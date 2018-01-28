@@ -4,7 +4,7 @@ The **SuperString** is an original content protocol based on blockchain technolo
 
 The first goal of the SuperString will start from the field of online literature, with the block chain to redefine the online literary ecology, and then gradually expand to comic, online drama and other original content areas.
 
-Chinese website: read.lianzai.com
+Chinese website: read.io
 
 # Abstract
 
