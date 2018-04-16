@@ -176,7 +176,7 @@ The address of Contract:
 
 
 
-40% are distributed to writers through writing mining mechanisms and algorithms
+40% are distributed to users through mining mechanisms and algorithms
 
 30% distributed to early participants (unlocked over two years)
 
